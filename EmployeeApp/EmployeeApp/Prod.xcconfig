@@ -1,0 +1,13 @@
+//
+//  Prod.xcconfig
+//  EmployeeApp
+//
+//  Created by Ichsan Indra Wahyudi on 10/10/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SUCCESS_API_URL =
+EMPTY_API_URL =
+ERROR_API_URL =
